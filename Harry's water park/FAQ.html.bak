@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Harry's Water Park</title>
+  <link rel="stylesheet"  href="css/style.css">
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+<script src="js/Javascript.js" defer></script>
+</head>
+<body>
+	<header class="prim-header flex">
+	<button  class="mobile-nav-toggle"
+		aria-controls="prim-navi" aria-expanded="false">
+		<span 
+		class="sr-only"></span>
+		</button>
+	<div>	
+	 <img class ="primary-icon" src="logo hwp.png">
+	</div>	
+	<div>
+		
+		<nav>
+			<ul id="prim-navi"  
+			data-visible="false" class="prim-navi flex">
+			  <li class="active">
+			  <a href="index.html">Home</a>
+			  </li>
+			  <li>
+			  <a href="Water_Park.html">Water Park</a>
+			  </li>
+			  <li>
+			  <a href="Nature_Resort.html">Nature Resort</a>
+			  </li>
+			  <li>
+			  <a href="Prices.html">Prices</a>
+			  </li>
+			  <li>
+			  <a href="Opening_Hours.html">Opening Hours</a>
+			  </li>
+			  <li>
+			  <a href="FAQ.html">FAQ</a>
+			  </li>
+			</ul>
+		
+			
+		</nav>
+	</header>
+	<div class="main">
+		<div class="container">
+		<div class="items">
+			<h2> Frequently Asked Questions </h2>
+				<h6>What is the entry fee to the water park?</h6> 
+				  <p> The entry fee is $150 per person. </p>
+				  <p>Children 2-10 and audults over 65:$100</p>
+				<h6>What are the opening hours?</h6> 
+				    <p>We are open from Monday to Sunday 9:00 am to 7:00pm.</p>
+				  <h6>Is the cost of cabin and guest room inclusive of free access to the water park ?</h6>
+					<p> No, the cabin prices exclude the cost of water park admissions which are an
+					additional $100 per person.</p>
+				<h6> Is the entry fee all inclusive to free access to the water park ?</h6>
+					<p>Yes, all rides and activities within the park are free.</p>
+				 <h6>Where is Harry's water park Located?</h6>
+					<p>#160 Tabaquite Road, Rio Claro , Trinidad and Tobago</p>	
+				 <h6>How to place reservations for cabins?</h6>
+					<p>You can contact or book with us at 798-0049 ,466-9748 or 392-48-29 . Where our
+					friendly staff will assist your accommodations or enquiries .
+					</p>	
+				<h6> Is there free and secure parking ?</h6> 
+					<p>Yes , parking is free for water park goers.Free and secure parking is also
+					available for persons booking with cabins.</p>	
+				<h6>Can I bring my own food and beverages ?</h6>
+					<p> Yes, you are welcome to bring food and beverages .Our food court is also
+					available and the convenience store is also readily available for any purchases
+					for your needs.</p>
+				  <h6> Is there a place to shower and change when i'm ready to leave the park ?</h6>
+					<p>We offer changing rooms and shower facilities in our main both rooms located in
+					the center of the water park.</p> 
+				  <h6>Do you have any packages for families or groups?</h6>
+				  <p>Early arrival groups of 15 and more person's get a free shed.</p>
+					<p>Groups of 20 and more people's entry fee is $120.00.</p>
+			      <h6>Are there accessible amenities for disabled or wheelchair person's ?</h6>
+					<p>Yes there are amenities for wheelchair disabled persons such as free parking,
+					bathroom facilities and entrance accessible. </p>
+			
+			</div>
+		</div>
+	</div>
+
+</body>
+	<footer class="main-footer">
+	
+	<h1>Copyright &copy; 2022, Harry's Water Park</h1>	
+    <a href="https://maps.app.goo.gl/hwVKLA8mdWuq2tmt5"># 160 tabaquite Road, Rio Claro, Trinidad and Tobago</a>
+       <br>
+        <a href = '+1(868)798-0049' >+1(868)798-0049</a>
+			
+		<div class="social-media">
+		   <h1>Follow Us</h1>
+		    <a href="http://m.facebook.com/744403922357944/">
+			<img src="facebook.png"  alt=" Facebook"  style="width:60px;height:60px;">
+			<a/>
+			 <a href="https://instagram.com/harryswaterpark?igshid=YmMyMTA2M2Y=">
+			<img src="instagram.png"  alt="instagram"  style="width:60px;height:60px;">
+			<a/>
+			 <a href="harryswaterparktt@gmail.com">
+			<img src="email.png"  alt="E-Mail"  style="width:60px;height:60px;">
+			<a/>
+		</div>
+	</footer>
+	
+</html>
+
+

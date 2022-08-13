@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Harry's Water Park</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  
+</head>
+<body>
+background-img:url ('backgroundhwp');
+	<div class="hero">
+		<nav>
+		    <h2 class="logo">Harry's <span>Water</span> Park</h2>
+			<ul>
+			  <li><a href="#">Home</a></li>
+			  <li><a href="#">About us</a></li>
+			  <li><a href="#">Water Park</a></li>
+			  <li><a href="#">Nature Resort</a></li>
+			  <li><a href="#">Prices</a></li>
+			  <li><a href="#">Opening Hours</a></li>
+			  <li><a href="#">FAQ</a></li>
+			</ul>
+
+</body>
+</html>
+
+

@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Harry's Water Park</title>
+  <link rel="stylesheet"  href="css/style.css">
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+<script src="js/Javascript.js" defer></script>
+</head>
+<body>
+	<header class="prim-header flex">
+	<button  class="mobile-nav-toggle"
+		aria-controls="prim-navi" aria-expanded="false">
+		<span 
+		class="sr-only"></span>
+		</button>
+	<div>	
+	 <img class ="primary-icon" src="logo hwp.png">
+	</div>	
+	<div>
+		
+		<nav>
+			<ul id="prim-navi"  
+			data-visible="false" class="prim-navi flex">
+			  <li class="active">
+			  <a href="index.html">Home</a>
+			  </li>
+			  <li>
+			  <a href="Water_Park.html">Water Park</a>
+			  </li>
+			  <li>
+			  <a href="Nature_Resort.html">Nature Resort</a>
+			  </li>
+			  <li>
+			  <a href="Prices.html">Prices</a>
+			  </li>
+			  <li>
+			  <a href="Opening_Hours.html">Opening Hours</a>
+			  </li>
+			  <li>
+			  <a href="FAQ.html">FAQ</a>
+			  </li>
+			</ul>
+		
+			
+		</nav>
+	</header>
+	<div id="main">
+	<div class="container">
+	<h2> Water Park Attractions</h2>
+		<div class="items ">	
+			<div class="inside">
+				<div class="image">
+					<div>
+					<img src="../Harry's water park/Water/Adult Padle Boats-Kayaking.jpg"  
+					alt="Adult Paddle boats-kayaking" align="left">
+					</div>
+					<h3>Adult Paddle Boats & Kayaking</h3>
+					<p>With a pond over 2-acres, there’s no need to worry about 
+					bumping into others while calmly relaxing in one of our paddle
+					boats with that special someone or racing kayaks across the pond 
+					with friends or family.
+					</p>
+			     </div>
+			</div>
+			
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Food Court.jpg"  
+					alt="Food Court" align="left">
+					</div>
+					<h3>Food Court</h3>
+					<p>
+					Have you ever forgotten to pack that home cooked meal everyone 
+					loves? Well, you’re in luck,our new  food court sells a
+					wide variety of meals made hot on the stop for you and your family.
+					</p>
+				</div>
+			</div>
+			
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\GO-Kart.jpg"  
+					alt="Go-kart" align="left">
+					</div>
+					<h3>Go Kart</h3>
+					<p>
+					Are you a competitive person? If so, the best ways
+					determine who’s #1 is to check out our go-kart track.
+					Put the pedal to the metal and clam your title of the 
+					fast lap time.
+					</p>
+				</div>
+			</div>		
+
+	        <div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Infant Zone.jpg"  
+					alt="Infant zone" align="left">
+					</div>
+					<h3>Infant Zone</h3>
+					<p>
+					HEY!!! Here at Harry’s, we cater for all family member, so no need
+					to worry about not getting to spend time enjoying yourself with your
+					toddler at the water park because we have created a safe and playful 
+					zone for you guys.
+					</p>
+				</div>
+			</div>	
+		
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Kiddie Pool.jpg"  
+					alt="Kid pool" align="left">
+					</div>
+					<h3>Kiddie Pool</h3>
+					<p>
+					Parents are you thinking about all those big and fun rides and there
+					isn’t fun activities for the kids. Well your prays are answered, 
+					with the kiddie pool parents can lime back on a beach chair, 
+					watching your kids enjoying themselves in our 2-feet pool.
+					</p>
+				</div>
+			</div>	
+		
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Kiddies Kayaking.jpg"  
+					alt="kayaking" align="left">
+					</div>
+					<h3>Kiddies Kayaking</h3>
+					<p>
+					There is also a kid friendly
+					pool where your kids can also share the enjoyment of kayaking was 
+					with friends.
+					</p>
+				</div>
+			</div>	
+		
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Kiddies Paddle Boat.jpg"  
+					alt="Paddle boat" align="left">
+					</div>
+					<h3>Kiddies Paddle Boat</h3>
+					<p>
+					At Harry’s water park we have something for the entire
+					family, not only do we have adults paddle boating but 
+					we also have for the kids too the fun have stops.
+					</p>
+				</div>
+			</div>	
+		
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Lazy Kingdom.jpg"  
+					alt="Lazy kingdom" align="left">
+					</div>
+					<h3>Lazy Kingdom</h3>
+					<p>
+					This attraction is made those lazy guys and gals.
+					In this kingdom your free to rock back, enjoy the shade
+					and relax the stress away on either your hammocks or a calm 
+					cruise around the lazy river.
+					</p>
+				</div>
+			</div>
+			
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\sheds.jpg"  
+					alt="sheds" align="left">
+					</div>
+					<h3>Sheds</h3>
+					<p>
+					Looking to spend some time with family and friends?
+					Cook, lime and have a fun-filled relaxing day. Well Harry’s
+					got the right spot for you.
+					</p>
+				</div>
+			</div>	
+			
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Slip and slide.jpg"  
+					alt="slipandslide" align="left">
+					</div>
+					<h3>Slip and Slide</h3>
+					<p>
+					Everyone hates waiting in line for a slide and kids 
+					aren’t as patient as us they just what to enjoy themselves 
+					to the fullest. That’s why we created slip and slide where 
+					everyone can slide at the same time.
+					</p>
+				</div>
+			</div>	
+			
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Speed racer.jpg"  
+					alt="speedracer" align="left">
+					</div>
+					<h3>Speed Racer</h3>
+					<p>
+					Are you the competitive type? Bring your team and 
+					come have some fun. Grab a mat and race headfirst through
+					enclosed high-speed slides feel as you challenge your friends 
+					to see who is the fastest.
+					</p>
+				</div>
+			</div>	
+			
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Speed reacer Jr..jpg"  
+					alt="miniseedracer" align="left">
+					</div>
+					<h3>Speed Racer Jr.</h3>
+					<p>
+					Are you in the need for speed? Bring your friends and 
+					come have some fun. Grab a mat and race headfirst through
+					enclosed high-speed slides feel as you challenge your friends
+					to see who is the fastest.
+					</p>
+				</div>
+			</div>	
+			
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\The bridge.png"  
+					alt="cablebridge" align="left">
+					</div>
+					<h3>The Cable Bridge</h3>
+					<p>
+					Have you ever bounced across our cable bridge? 
+					It has a lovely veiw over the kiddie kayaking pool and scenic pond, it's a one of a
+					kind experience you must have. 
+					</p>
+				</div>
+			</div>	
+		
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Toiletbowl.jpg"  
+					alt="toiletbowl" align="left">
+					</div>
+					<h3>Toiletbowl</h3>
+					<p>
+					Have been feeling like poop later? Come, try our toilet bowl slide. 
+					Flush always the negative feelings and get your adrenaline going and 
+					come in down and give it a try.
+					</p>
+				</div>
+			</div>	
+		
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Tornado.jpg"  
+					alt="tornado" align="left">
+					</div>
+					<h3>Tornado</h3>
+					<p>
+					Experience a series of spine-tingling spirals that create the tightest,
+					highest banking turns and biggest thrills for waterslides.
+					</p>
+				</div>
+			</div>	
+			
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Twisler.jpg"  
+					alt="twisler" align="left">
+					</div>
+					<h3>Twisler</h3>
+					<p>
+					Do you know what’s a twisler? Well, that’s the only
+					definition of this ride is short and full of twist, leaving you 
+					wanting more.
+					</p>
+				</div>
+			</div>	
+				
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Wave pool.jpg"  
+					alt="wavepool" align="left">
+					</div>
+					<h3>Wave Pool</h3>
+					<p>
+					Wanna relax and feel them waves. It’s safer and cleaner 
+					than the sea too. Either way everyone is sure to love this
+					attraction.
+					</p>
+				</div>
+			</div>	
+			
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Wildlife and nature trail.jpg"  
+					alt="trail" align="left">
+					</div>
+					<h3>Wildlife and Nature Trail</h3>
+					<p>
+					Take a moment to reconnect with the outdoors! Our ‘Wildlife
+					& Nature trail’ is the prefect way for you to do, so enjoy your 
+					stroll through nature and learn about their natural habitat and 
+					habits.
+					</p>
+				</div>
+			</div>	
+		
+			<div class="inside">
+				<div class="image ">
+					<div>
+					<img src="..\Harry's water park\Water\Zip lining.jpg"  
+					alt="ziplining" align="left">
+					</div>
+					<h3>Zip Lining</h3>
+					<p>
+					Come on down and gear up let’s show you the view from a
+					different perspective as you travel in style in our 500 feet 
+					long zip line. Traveling across our exhilarating scenic pond. It’s
+					a moment you never want to miss.
+					</p>
+				</div>
+			</div>		
+			
+		
+		
+
+
+
+		
+		</div>
+		</div>
+		</div>
+		</div>
+	</div>
+</body>
+	<footer class="main-footer">
+	
+	<h1>Copyright &copy; 2022, Harry's Water Park</h1>	
+    <a href="https://maps.app.goo.gl/hwVKLA8mdWuq2tmt5"># 160 tabaquite Road, Rio Claro, Trinidad and Tobago</a>
+       <br>
+        <a href = '+1(868)798-0049' >+1(868)798-0049</a>
+			
+		<div class="social-media">
+		   <h1>Follow Us</h1>
+		    <a href="http://m.facebook.com/744403922357944/">
+			<img src="facebook.png"  alt=" Facebook"  style="width:60px;height:60px;">
+			<a/>
+			 <a href="https://instagram.com/harryswaterpark?igshid=YmMyMTA2M2Y=">
+			<img src="instagram.png"  alt="instagram"  style="width:60px;height:60px;">
+			<a/>
+			 <a href="harryswaterparktt@gmail.com">
+			<img src="email.png"  alt="E-Mail"  style="width:60px;height:60px;">
+			<a/>
+		</div>
+	</footer>
+	
+</html>

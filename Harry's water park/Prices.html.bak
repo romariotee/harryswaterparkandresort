@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Harry's Water Park</title>
+  <link rel="stylesheet"  href="css/style.css">
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+<script src="js/Javascript.js" defer></script>
+</head>
+<body>
+	<header class="prim-header flex">
+	<button  class="mobile-nav-toggle"
+		aria-controls="prim-navi" aria-expanded="false">
+		<span 
+		class="sr-only"></span>
+		</button>
+	<div>	
+	 <img class ="primary-icon" src="logo hwp.png">
+	</div>	
+	<div>
+		
+		<nav>
+			<ul id="prim-navi"  
+			data-visible="false" class="prim-navi flex">
+			  <li class="active">
+			  <a href="index.html">Home</a>
+			  </li>
+			  <li>
+			  <a href="Water_Park.html">Water Park</a>
+			  </li>
+			  <li>
+			  <a href="Nature_Resort.html">Nature Resort</a>
+			  </li>
+			  <li>
+			  <a href="Prices.html">Prices</a>
+			  </li>
+			  <li>
+			  <a href="Opening_Hours.html">Opening Hours</a>
+			  </li>
+			  <li>
+			  <a href="FAQ.html">FAQ</a>
+			  </li>
+			</ul>
+		
+			
+		</nav>
+	</header>
+	<div class="main">
+<div class="container1">
+		<div class="items">
+			<h2> Pricing </h2>
+				<h3>Water park access:</h3>  
+				<h1>Entry fees:</h1> 
+				  <p> Children ages(2-10years):$100 </p>
+				  <p>Persons age( 11-64):$150 </p>
+				  <p>Senior Citizens(65 and over):$100 </p>
+				<h1>Group specials:</h1> 
+				    <p>Groups of 20 or more person's entry fee is $120</p>
+				  <h1>Early arrival:</h1>
+					<p>Groups of 15 or more receives a free shed.Entry fee:$150</p>
+				<h3>Sheds</h3>	
+				  <h1>Small</h1>
+					<p>Fireside (no fire wood included)</p> 
+				    <p>Snik with running water</p>
+					<p>Electricity</p>
+					<p>Seating & Tables</p> 
+				  <h1>Medium</h1>
+					<p>Fireside (no fire wood included)</p> 
+				    <p>Sink with running water</p>
+					<p>Electricity</p>
+					<p>Seating & Tables</p> 	
+					<p>Bar-b-que pit</p>
+				  <h1>Large</h1>
+					<p>Fireside (no fire wood included)</p> 
+				    <p>Snik with running water</p>
+					<p>Electricity</p>
+					<p>Seating & Tables</p> 	
+					<p>Bar-b-que pit</p>						
+					<p>4 Hammocks</p>
+				<h3>Guest Rooms</h3>
+					<p>Cost per day Excluive of Jacuzzi:$500</p>
+				    <p>Cost per day Incluive of Jacuzzi:$800</p>
+					<h5>Note:Access to the water park is $100 per person each day.</h5>
+				<h3>Cabins:</h3>
+				  <h1>Weekday:$2000</h1>
+			      <h1>Weekend:$3000</h1>
+					<p>Maximum capacity of 10 guests </>
+					<p>Designated pool</p>
+					<p>Jacuzzi</p>
+					<p>WiFi</p>
+					<p>Air Condition</p>
+				  <h1>Couples:$1200</h1>
+					<h5>Note:Access to the water park is $100 per person each day.</h5>
+					
+					
+					
+					
+			</div>
+		</div>
+	</div>
+</body>
+	<footer class="main-footer">
+	
+	<h1>Copyright &copy; 2022, Harry's Water Park</h1>	
+    <a href="https://maps.app.goo.gl/hwVKLA8mdWuq2tmt5"># 160 tabaquite Road, Rio Claro, Trinidad and Tobago</a>
+       <br>
+        <a href = '+1(868)798-0049' >+1(868)798-0049</a>
+			
+		<div class="social-media">
+		   <h1>Follow Us</h1>
+		    <a href="http://m.facebook.com/744403922357944/">
+			<img src="facebook.png"  alt=" Facebook"  style="width:60px;height:60px;">
+			<a/>
+			 <a href="https://instagram.com/harryswaterpark?igshid=YmMyMTA2M2Y=">
+			<img src="instagram.png"  alt="instagram"  style="width:60px;height:60px;">
+			<a/>
+			 <a href="harryswaterparktt@gmail.com">
+			<img src="email.png"  alt="E-Mail"  style="width:60px;height:60px;">
+			<a/>
+		</div>
+	</footer>
+	
+</html>
+
